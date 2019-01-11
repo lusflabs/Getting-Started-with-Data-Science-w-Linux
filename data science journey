@@ -1,0 +1,3 @@
+Install data science platform on linux using pip
+pip install numpy pandas scipy matplotlib scikit-learn seaborn
+
